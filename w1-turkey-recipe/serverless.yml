@@ -36,4 +36,3 @@ functions:
         methods:
           - GET
         authLevel: anonymous
-        name: fooobar
